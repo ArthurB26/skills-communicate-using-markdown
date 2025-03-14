@@ -10,3 +10,6 @@
 ``` html
 <h1>Header Text</h1>
 ```
+
+- [x] Checked
+- [ ] Not Checked
